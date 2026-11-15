@@ -10,16 +10,13 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+
+    font-family: "Inter", sans-serif;
+    line-height: 1.6;
 }
 
 main {
     flex: 1;
-}
-
-#donut {
-    width: max-content;
-    margin-inline: auto;
-    opacity: 0.5;
 }
 
 .plain {
