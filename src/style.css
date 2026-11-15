@@ -16,6 +16,12 @@ main {
     flex: 1;
 }
 
+#donut {
+    width: max-content;
+    margin-inline: auto;
+    opacity: 0.5;
+}
+
 .plain {
     text-decoration: none;
     color: inherit;
